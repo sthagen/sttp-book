@@ -10,3 +10,4 @@ This book is currently being used by:
 * Delft University of Technology ([Dr. Maurício Aniche](https://www.mauricioaniche.com))
 * University of Zurich ([Prof. Dr. Alberto Bacchelli](https://sback.it))
 * PUC-RS/Brazil ([Prof. Dr. Bernardo Copstein](https://www.linkedin.com/in/bernardo-copstein-3226095))
+* Universidade de Passo Fundo / Brazil ([Prof. Dr. Alexandre Lazaretti Zanatta](https://www.linkedin.com/in/alexandre-lazaretti-zanatta-b7a461115/))
